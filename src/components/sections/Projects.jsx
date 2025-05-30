@@ -91,7 +91,7 @@ export const Projects = () => {
             >
               <h3 className="text-xl font-bold mb-2">AOS Animation VPN Landing Page</h3>
               <p className="text-gray-400 mb-4">
-                Created a modern and animatedfully responsive VPN landing page using Tailwind CSS and AOS(Animate on Scroll).
+                Created a modern and animated fully responsive VPN landing page using Tailwind CSS and AOS (Animate on Scroll).
               </p>
               <div className="flex flex-wrap gap-2 mb-4">
                 {["HTML", "CSS", "Tailwind Css"].map(
