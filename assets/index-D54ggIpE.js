@@ -72,7 +72,7 @@ Error generating stack: `+i.message+`
               hover:-translate-y-1 hover:border-blue-500/30
               hover:shadow-[0_4px_20px_rgba(59,130,246,0.1)]
               transition-all
-            `,children:[h.jsx("h3",{className:"text-xl font-bold mb-2",children:"AOS Animation VPN Landing Page"}),h.jsx("p",{className:"text-gray-400 mb-4",children:"Created a modern and animatedfully responsive VPN landing page using Tailwind CSS and AOS(Animate on Scroll)."}),h.jsx("div",{className:"flex flex-wrap gap-2 mb-4",children:["HTML","CSS","Tailwind Css"].map(x=>h.jsx("span",{className:`
+            `,children:[h.jsx("h3",{className:"text-xl font-bold mb-2",children:"AOS Animation VPN Landing Page"}),h.jsx("p",{className:"text-gray-400 mb-4",children:"Created a modern and animated fully responsive VPN landing page using Tailwind CSS and AOS (Animate on Scroll)."}),h.jsx("div",{className:"flex flex-wrap gap-2 mb-4",children:["HTML","CSS","Tailwind Css"].map(x=>h.jsx("span",{className:`
                       bg-blue-500/10 text-blue-500 py-1 px-3 
                       rounded-full text-sm
                       transition
