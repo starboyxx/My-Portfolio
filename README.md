@@ -49,44 +49,6 @@ Then, you can preview the production build with:
 npm run preview
 ```
 
-## Folder Structure
-
-```
-your-portfolio/
-├── public/
-│   └── index.html
-├── src/
-│   ├── components/
-│   │   ├── Navbar.jsx
-│   │   ├── MobileMenu.jsx
-│   │   ├── LoadingScreen.jsx
-│   │   └── sections/
-│   │       ├── Home.jsx
-│   │       ├── About.jsx
-│   │       ├── Projects.jsx
-│   │       └── Contact.jsx
-│   ├── index.css          # Tailwind base styles and global styles
-│   ├── App.jsx
-│   └── main.jsx
-├── package.json
-├── vite.config.js
-└── README.md
-```
-
-## Customization
-
-- **Tailwind CSS:** Modify the `index.css` file or add custom classes to further tweak the design.
-- **Components:** Edit individual components in the `src/components/` folder to update content or styling.
-- **Sections:** Update content in the `src/components/sections/` directory to showcase your personal projects, about info, and contact details.
-
-## Contributing
-
-Contributions are welcome! Please open an issue or submit a pull request with improvements.
-
-## License
-
-This project is open source and available under the [MIT License](LICENSE).
-
 ---
 
-Happy coding and enjoy building your professional portfolio!
+Feel Free to use this resource to build your own portfolio - Happy coding.
